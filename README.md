@@ -1,4 +1,4 @@
-# <h1 align="center"> 💻Programación  💻 </h1>  
+# <h1 align="center"> 💻 Ejercicios de Programación  💻 </h1>  
 
 ### *Python*
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
